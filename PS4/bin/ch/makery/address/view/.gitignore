@@ -1,3 +1,9 @@
 /PersonOverview.fxml
 /PersonOverviewController.class
 /RootLayout.fxml
+/PersonEditDialog.fxml
+/PersonEditDialogController.class
+/BirthdayStatistics.fxml
+/BirthdayStatisticsController.class
+/DarkTheme.css
+/RootLayoutController.class
